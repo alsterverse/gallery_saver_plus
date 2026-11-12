@@ -1,3 +1,6 @@
+## Unreleased
+- Migrates the Android plugin to built-in Kotlin: it no longer applies the Kotlin Gradle Plugin itself. Requires Flutter 3.44 / Dart 3.12.
+
 ## 3.2.9
 fix: Clean file name by removing query parameters in GallerySaver by @hellohejinyu
 
